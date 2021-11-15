@@ -23,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature/GTLRN-1" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -73,7 +73,49 @@
       <option name="project" value="LOCAL" />
       <updated>1636966480609</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit 0">
+      <created>1636967561325</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1636967561325</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Commit 1">
+      <created>1636967579817</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1636967579817</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Commit 2">
+      <created>1636967591391</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1636967591391</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Commit 3">
+      <created>1636967601440</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1636967601440</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Commit 4">
+      <created>1636967613391</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1636967613391</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Commit 5">
+      <created>1636967626439</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1636967626439</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +124,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="№1_настройка gitignore" />
     <MESSAGE value="№2_создал цикл" />
-    <option name="LAST_COMMIT_MESSAGE" value="№2_создал цикл" />
+    <MESSAGE value="Commit 0" />
+    <MESSAGE value="Commit 1" />
+    <MESSAGE value="Commit 2" />
+    <MESSAGE value="Commit 3" />
+    <MESSAGE value="Modified Commit 4" />
+    <MESSAGE value="Commit 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 5" />
   </component>
 </project>
